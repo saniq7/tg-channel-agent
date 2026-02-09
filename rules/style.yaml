@@ -1,0 +1,42 @@
+# Правила стиля канала «Digital Marketing Пешков»
+
+format:
+  title:
+    bold: true
+    emoji: false
+    max_length: 60
+  body:
+    paragraphs: 2-4
+    paragraph_sentences: 2-4
+  length:
+    ideal: "800-1200 знаков"
+    max: 2000
+
+tone:
+  voice: "прагматик"
+  allowed:
+    - прямота
+    - ирония
+    - самоирония
+    - точечный мат
+  forbidden:
+    - восторженность
+    - менторство
+    - канцелярит
+    - кликбейт
+
+structure:
+  required:
+    - заголовок
+    - тело
+    - вывод
+  optional:
+    - лид
+    - кому_зайдёт
+
+timing:
+  publish_window: "18:30-21:30 MSK"
+  best_days:
+    - вторник
+    - среда
+    - четверг

@@ -1,0 +1,16 @@
+# Секреты
+.env
+.env.local
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Node (если будут скрипты)
+node_modules/
